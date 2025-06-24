@@ -1,3 +1,18 @@
 [
-  
+  {
+    "number": "443",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "4343",
+    "owner": "Hansa Dewmina",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": false,
+    "antiLink": true
+  }
 ]
