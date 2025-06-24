@@ -14,5 +14,21 @@
     "statusReply": true,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "wew",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "wew",
+    "owner": "ewe",
+    "prefix": "ew",
+    "autoReply": false,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": false,
+    "antiLink": true
   }
 ]
