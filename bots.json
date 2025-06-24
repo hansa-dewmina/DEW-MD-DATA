@@ -2,17 +2,17 @@
   {
     "number": "443",
     "autoBlock": false,
-    "readCmd": false,
-    "session": "4343",
+    "readCmd": true,
+    "session": "43433",
     "owner": "Hansa Dewmina",
     "prefix": ".",
     "autoReply": true,
     "autoVoice": true,
-    "autoReact": false,
-    "statusView": false,
+    "autoReact": true,
+    "statusView": true,
     "statusReact": false,
-    "statusReply": false,
-    "autoType": false,
+    "statusReply": true,
+    "autoType": true,
     "antiLink": true
   }
 ]
