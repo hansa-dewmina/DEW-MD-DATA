@@ -6,7 +6,7 @@
     "session": "4343",
     "owner": "Hansa Dewmina",
     "prefix": ".",
-    "autoReply": false,
+    "autoReply": true,
     "autoVoice": true,
     "autoReact": false,
     "statusView": false,
