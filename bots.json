@@ -34,7 +34,7 @@
   {
     "number": "94778721239",
     "autoBlock": false,
-    "readCmd": true,
+    "readCmd": false,
     "session": "fQ4k3JKT#ayLE0ARKWYR2vgKlZlGRXeKU3nj-I8MeDhDLFLPPFew",
     "owner": "Dew-Bot",
     "prefix": ".",
