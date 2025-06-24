@@ -7,7 +7,7 @@
     "owner": "Kaweesha",
     "prefix": ".",
     "autoReply": false,
-    "autoVoice": false,
+    "autoVoice": true,
     "autoReact": false,
     "statusView": false,
     "statusReact": false,
