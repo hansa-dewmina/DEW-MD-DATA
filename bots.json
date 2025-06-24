@@ -18,17 +18,17 @@
   {
     "number": "94743449084",
     "autoBlock": false,
-    "readCmd": true,
+    "readCmd": false,
     "session": "OU4jWToA#PcaSIRjlWWEX1QPCSKZJjV_qzoQ4IR21-G6jXpYwQDA",
-    "owner": "Dark yaya",
+    "owner": "Yasiru",
     "prefix": ".",
-    "autoReply": true,
+    "autoReply": false,
     "autoVoice": true,
-    "autoReact": true,
-    "statusView": true,
-    "statusReact": true,
-    "statusReply": true,
-    "autoType": true,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": false,
     "antiLink": true
   }
 ]
