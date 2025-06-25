@@ -30,21 +30,5 @@
     "statusReply": false,
     "autoType": false,
     "antiLink": true
-  },
-  {
-    "number": "94778721239",
-    "autoBlock": false,
-    "readCmd": false,
-    "session": "fQ4k3JKT#ayLE0ARKWYR2vgKlZlGRXeKU3nj-I8MeDhDLFLPPFew",
-    "owner": "Dew-Bot",
-    "prefix": ".",
-    "autoReply": true,
-    "autoVoice": true,
-    "autoReact": true,
-    "statusView": true,
-    "statusReact": false,
-    "statusReply": true,
-    "autoType": true,
-    "antiLink": true
   }
 ]
