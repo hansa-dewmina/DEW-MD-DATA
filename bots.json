@@ -49,7 +49,7 @@
   },
   {
     "number": "94720648712",
-    "autoBlock": true,
+    "autoBlock": false,
     "readCmd": true,
     "session": "2VQkhDqQ#M-ZCP_45tUWUZgpRK7oHXC-YTXzfOb4UmvXI957Vrkc",
     "owner": "Ammar",
