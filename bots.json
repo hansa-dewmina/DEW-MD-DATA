@@ -46,5 +46,21 @@
     "statusReply": true,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "O",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "HJR1VDZZ#30zbhtENNa5tSnbos_9NPSF3R_2lA_H9L847TL6H7lI",
+    "owner": "94724935040",
+    "prefix": "HJR1VDZZ#30zbhtENNa5tSnbos_9NPSF3R_2lA_H9L847TL6H7lI",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
   }
 ]
