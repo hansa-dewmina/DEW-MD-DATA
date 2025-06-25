@@ -62,5 +62,21 @@
     "statusReply": true,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94766563394",
+    "autoBlock": true,
+    "readCmd": true,
+    "session": "zNRQWYwD#-bH8GR0hrf51ExQ2ogYsVWnFrw31ivCaCY7VnrXFtqA",
+    "owner": "Rahu md",
+    "prefix": "Matta ",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": true,
+    "autoType": true,
+    "antiLink": true
   }
 ]
