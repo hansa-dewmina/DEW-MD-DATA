@@ -46,5 +46,21 @@
     "statusReply": true,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "0766563394",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "vcZkjIbb#cHRVug11cxb12JEVhQ1x8WC2AXRwFLcj3_Nt7syjhXg",
+    "owner": "Induwara",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": true,
+    "autoType": true,
+    "antiLink": true
   }
 ]
