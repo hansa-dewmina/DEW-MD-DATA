@@ -62,5 +62,21 @@
     "statusReply": false,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94764602911",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "LUJARaoZ#kjSGYl8-hTQwayLmfW_xy8N1izzMV_0ZvBVjmBDwNIc",
+    "owner": "Hansa Dewmina",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
   }
 ]
