@@ -32,22 +32,6 @@
     "antiLink": true
   },
   {
-    "number": "94766563394",
-    "autoBlock": false,
-    "readCmd": true,
-    "session": "zNRQWYwD#-bH8GR0hrf51ExQ2ogYsVWnFrw31ivCaCY7VnrXFtqA",
-    "owner": "Induwara",
-    "prefix": "Matta ",
-    "autoReply": true,
-    "autoVoice": true,
-    "autoReact": true,
-    "statusView": true,
-    "statusReact": true,
-    "statusReply": true,
-    "autoType": true,
-    "antiLink": true
-  },
-  {
     "number": "0766563394",
     "autoBlock": false,
     "readCmd": false,
