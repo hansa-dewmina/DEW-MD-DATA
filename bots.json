@@ -34,18 +34,18 @@
   {
     "number": "94726174795",
     "autoBlock": false,
-    "readCmd": false,
+    "readCmd": true,
     "session": "uNZlgL6A#h8BUgfums2CaKhxI39GvHZSnB45M8V5A6Z_gQ4QSFO8",
     "owner": "Purna",
-    "prefix": ".",
+    "prefix": "!",
     "autoReply": true,
     "autoVoice": true,
-    "autoReact": false,
+    "autoReact": true,
     "statusView": true,
     "statusReact": true,
-    "statusReply": false,
+    "statusReply": true,
     "autoType": true,
-    "antiLink": false
+    "antiLink": true
   },
   {
     "number": "94705092697",
