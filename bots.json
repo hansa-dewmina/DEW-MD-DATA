@@ -30,37 +30,5 @@
     "statusReply": false,
     "autoType": false,
     "antiLink": true
-  },
-  {
-    "number": "94726174795",
-    "autoBlock": false,
-    "readCmd": false,
-    "session": "PVhn2IhR#48GBb7fheaL6mXSK3puBjMZm8RF65-A9_6iDgPE1UMI",
-    "owner": "purna",
-    "prefix": ".",
-    "autoReply": false,
-    "autoVoice": true,
-    "autoReact": false,
-    "statusView": false,
-    "statusReact": false,
-    "statusReply": false,
-    "autoType": false,
-    "antiLink": true
-  },
-  {
-    "number": "94705092697",
-    "autoBlock": false,
-    "readCmd": true,
-    "session": "jYIxVR6T#vrvGajMy4jqBT_PC-KgAwj9ARK_HN1xOoha8_M6sEUg",
-    "owner": "Kaveesha",
-    "prefix": ".",
-    "autoReply": true,
-    "autoVoice": true,
-    "autoReact": true,
-    "statusView": true,
-    "statusReact": true,
-    "statusReply": false,
-    "autoType": true,
-    "antiLink": true
   }
 ]
