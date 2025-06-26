@@ -42,7 +42,7 @@
     "autoVoice": true,
     "autoReact": true,
     "statusView": true,
-    "statusReact": true,
+    "statusReact": false,
     "statusReply": true,
     "autoType": true,
     "antiLink": true
