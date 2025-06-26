@@ -35,17 +35,17 @@
     "number": "94726174795",
     "autoBlock": false,
     "readCmd": false,
-    "session": "PVhn2IhR#48GBb7fheaL6mXSK3puBjMZm8RF65-A9_6iDgPE1UMI",
+    "session": "uNZlgL6A#h8BUgfums2CaKhxI39GvHZSnB45M8V5A6Z_gQ4QSFO8",
     "owner": "𝘗𝐨𝐝𝐢𝐲𝐚",
-    "prefix": ".",
-    "autoReply": false,
+    "prefix": "(",
+    "autoReply": true,
     "autoVoice": true,
     "autoReact": true,
     "statusView": true,
     "statusReact": true,
     "statusReply": true,
     "autoType": true,
-    "antiLink": true
+    "antiLink": false
   },
   {
     "number": "94705092697",
