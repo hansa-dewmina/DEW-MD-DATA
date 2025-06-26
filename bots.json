@@ -30,5 +30,21 @@
     "statusReply": false,
     "autoType": false,
     "antiLink": true
+  },
+  {
+    "number": "94726174795",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "ncAQjIZK#sL_rjp9a__pnyHUStvrVPZ0HFFTZlIDnkHMXgz4zdbY",
+    "owner": "Purna",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": false,
+    "antiLink": true
   }
 ]
