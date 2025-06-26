@@ -18,17 +18,17 @@
   {
     "number": "94743449084",
     "autoBlock": false,
-    "readCmd": true,
+    "readCmd": false,
     "session": "OU4jWToA#PcaSIRjlWWEX1QPCSKZJjV_qzoQ4IR21-G6jXpYwQDA",
     "owner": "Yasiru",
     "prefix": ".",
     "autoReply": false,
     "autoVoice": false,
-    "autoReact": true,
-    "statusView": true,
-    "statusReact": true,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
     "statusReply": false,
-    "autoType": false,
+    "autoType": true,
     "antiLink": true
   },
   {
@@ -45,6 +45,38 @@
     "statusReact": false,
     "statusReply": false,
     "autoType": false,
+    "antiLink": true
+  },
+  {
+    "number": "94705092697",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "3",
+    "owner": "Randeu",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
+  },
+  {
+    "number": "94764602911",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "LUJARaoZ#kjSGYl8-hTQwayLmfW_xy8N1izzMV_0ZvBVjmBDwNIc",
+    "owner": "Hansa Dewmina",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
     "antiLink": true
   }
 ]
