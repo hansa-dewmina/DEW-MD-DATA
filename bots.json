@@ -39,7 +39,7 @@
     "owner": "𝘗𝐨𝐝𝐢𝐲𝐚",
     "prefix": "/",
     "autoReply": false,
-    "autoVoice": false,
+    "autoVoice": true,
     "autoReact": true,
     "statusView": true,
     "statusReact": true,
