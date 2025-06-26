@@ -15,5 +15,22 @@
     "autoType": true,
     "antiLink": true,
     "mode": "public"
+  },
+  {
+    "number": "94701515609",
+    "autoBlock": true,
+    "readCmd": true,
+    "session": "dewmina",
+    "owner": "hansa",
+    "prefix": "CQYUyQ7C#3DHiBrZAPW9jHMsSSXhLDxEvN95oA_nP",
+    "autoReply": true,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true,
+    "mode": "public"
   }
 ]
