@@ -46,5 +46,21 @@
     "statusReply": false,
     "autoType": false,
     "antiLink": true
+  },
+  {
+    "number": "94705092697",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "LUJARaoZ#kjSGYl8-hTQwayLmfW_xy8N1izzMV_0ZvBVjmBDwNIc",
+    "owner": "Randeu",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
   }
 ]
