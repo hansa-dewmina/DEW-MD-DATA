@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "number": "94712345678",
+    "autoBlock": true,
+    "readCmd": true,
+    "session": "SESS_ABC123",
+    "owner": "Hansa",
+    "prefix": "!",
+    "autoReply": true,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true,
+    "mode": "public"
+  }
+]
