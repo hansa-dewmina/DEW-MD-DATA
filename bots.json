@@ -3,7 +3,7 @@
     "number": "94712345678",
     "autoBlock": true,
     "readCmd": true,
-    "session": "SESS_ABC123",
+    "session": "SESS123",
     "owner": "Hansa",
     "prefix": "!",
     "autoReply": true,
