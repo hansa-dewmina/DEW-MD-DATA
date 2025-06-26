@@ -56,7 +56,7 @@
     "prefix": ".",
     "autoReply": true,
     "autoVoice": true,
-    "autoReact": false,
+    "autoReact": true,
     "statusView": true,
     "statusReact": true,
     "statusReply": false,
