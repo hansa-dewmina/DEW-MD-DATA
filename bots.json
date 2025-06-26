@@ -47,7 +47,6 @@
     "statusReact": false,
     "statusReply": false,
     "autoType": true,
-    "antiLink": true,
-    "mode": "public"
+    "antiLink": true
   }
 ]
