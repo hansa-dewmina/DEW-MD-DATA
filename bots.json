@@ -55,7 +55,7 @@
     "owner": "Kaveesha",
     "prefix": ".",
     "autoReply": true,
-    "autoVoice": false,
+    "autoVoice": true,
     "autoReact": false,
     "statusView": true,
     "statusReact": true,
