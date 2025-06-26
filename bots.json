@@ -38,7 +38,7 @@
     "session": "ncAQjIZK#sL_rjp9a__pnyHUStvrVPZ0HFFTZlIDnkHMXgz4zdbY",
     "owner": "Purna",
     "prefix": ".",
-    "autoReply": false,
+    "autoReply": true,
     "autoVoice": true,
     "autoReact": false,
     "statusView": false,
