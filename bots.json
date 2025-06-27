@@ -48,5 +48,21 @@
     "statusReply": false,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94724935040",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "zQhkTIqT#rZh0VByIJel4e3jvKdDmElZBG1RZH1WkIe2by8kS9R4",
+    "owner": "Kaveesha",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
   }
 ]
