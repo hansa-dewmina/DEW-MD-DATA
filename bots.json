@@ -80,5 +80,21 @@
     "statusReply": false,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94763970460",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "LQxxyKJb#5gI6J4DVF9YBvBYSjeqL7dxc7ZtY7IAq99fCWdB7khE",
+    "owner": "Shan",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
   }
 ]
