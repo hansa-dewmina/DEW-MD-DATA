@@ -84,17 +84,17 @@
     "number": "94763970460",
     "autoBlock": false,
     "readCmd": false,
-    "session": "LQxxyKJb#5gI6J4DVF9YBvBYSjeqL7dxc7ZtY7IAq99fCWdB7khE",
+    "session": "nVADTB4J#E-5hP9Q8on5Dbn_J4lR-B-fW23s4uhTuxLt8Qqzvnwo",
     "owner": "Shan",
     "prefix": ".",
     "autoReply": false,
-    "autoVoice": false,
+    "autoVoice": true,
     "autoReact": false,
     "statusView": true,
-    "statusReact": true,
+    "statusReact": false,
     "statusReply": false,
     "autoType": true,
-    "antiLink": true
+    "antiLink": false
   },
   {
     "number": "94767208016",
