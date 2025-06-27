@@ -75,7 +75,7 @@
     "autoReact": false,
     "statusView": true,
     "statusReact": true,
-    "statusReply": false,
+    "statusReply": true,
     "autoType": true,
     "antiLink": true
   }
