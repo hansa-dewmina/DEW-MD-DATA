@@ -72,7 +72,7 @@
     "owner": "Purna",
     "prefix": ".",
     "autoReply": true,
-    "autoVoice": true,
+    "autoVoice": false,
     "autoReact": false,
     "statusView": true,
     "statusReact": true,
