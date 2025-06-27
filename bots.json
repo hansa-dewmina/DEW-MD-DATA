@@ -96,5 +96,21 @@
     "statusReply": false,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94767208016",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "vMwQgJ5D#WNri16xcWxbMsEAshBJjgku_qfz8Y5fdTIeTsvU2QSE",
+    "owner": "ravisha",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
   }
 ]
