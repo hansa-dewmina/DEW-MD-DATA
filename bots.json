@@ -54,7 +54,7 @@
     "session": "nVADTB4J#E-5hP9Q8on5Dbn_J4lR-B-fW23s4uhTuxLt8Qqzvnwo",
     "owner": "Shan",
     "prefix": ".",
-    "autoReply": false,
+    "autoReply": true,
     "autoVoice": true,
     "autoReact": false,
     "statusView": true,
