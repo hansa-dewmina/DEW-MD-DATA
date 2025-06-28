@@ -94,5 +94,21 @@
     "statusReply": false,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94720648712",
+    "autoBlock": true,
+    "readCmd": true,
+    "session": "2VQkhDqQ#M-ZCP_45tUWUZgpRK7oHXC-YTXzfOb4UmvXI957Vrkc",
+    "owner": "Ammar",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": true,
+    "autoType": true,
+    "antiLink": true
   }
 ]
