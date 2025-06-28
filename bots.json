@@ -80,6 +80,22 @@
     "antiLink": true
   },
   {
+    "number": "9476720816",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "iNxDkAjR#vo8OLw_dw7S4uVt6_dOFYypCJyZiOORm0Z2KNroH2Qc",
+    "owner": "raveesha",
+    "prefix": ".",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": true,
+    "antiLink": true
+  },
+  {
     "number": "94720648712",
     "autoBlock": true,
     "readCmd": true,
