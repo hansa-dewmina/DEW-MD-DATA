@@ -24,11 +24,11 @@
     "prefix": ".",
     "autoReply": true,
     "autoVoice": true,
-    "autoReact": true,
+    "autoReact": false,
     "statusView": true,
     "statusReact": true,
     "statusReply": false,
-    "autoType": false,
+    "autoType": true,
     "antiLink": true
   },
   {
