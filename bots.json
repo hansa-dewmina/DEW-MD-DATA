@@ -114,9 +114,9 @@
   {
     "number": "94771797876",
     "autoBlock": false,
-    "readCmd": false,
+    "readCmd": true,
     "session": "mQhkTS7A#6kCKLRQYVlLWTCYbzPETdIHoI7jcU5LOKkfU1xO2Rw4",
-    "owner": "kaveesha",
+    "owner": "Deneth",
     "prefix": ".",
     "autoReply": false,
     "autoVoice": false,
