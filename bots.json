@@ -12,7 +12,7 @@
     "statusView": false,
     "statusReact": false,
     "statusReply": false,
-    "autoType": false,
+    "autoType": true,
     "antiLink": true,
     "sendWelcome": false,
     "antiBad": false,
