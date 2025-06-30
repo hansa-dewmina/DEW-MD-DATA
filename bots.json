@@ -125,6 +125,6 @@
     "statusReact": true,
     "statusReply": false,
     "autoType": false,
-    "antiLink": true
+    "antiLink": false
   }
 ]
