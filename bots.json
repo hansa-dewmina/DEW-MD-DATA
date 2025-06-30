@@ -2,7 +2,7 @@
   {
     "number": "94724935040",
     "autoBlock": false,
-    "readCmd": true,
+    "readCmd": false,
     "session": "0wiWSIY#QhRz1w6QhpiLS3XDdZfAMZqtdTGR1rqIgUHVveFXwfs",
     "owner": "Kaweesha",
     "prefix": ".",
