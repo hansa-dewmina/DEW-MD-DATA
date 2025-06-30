@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "number": "94724935040",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "uIwiWSIY#QhRz1w6QhpiLS3XDdZfAMZqtdTGR1rqIgUHVveFXwfs",
+    "owner": "Kaweesha",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": false,
+    "antiLink": true,
+    "sendWelcome": false,
+    "antiBad": false,
+    "autoRec": false,
+    "autoBio": false
+  }
+]
