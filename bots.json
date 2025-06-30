@@ -110,5 +110,21 @@
     "statusReply": true,
     "autoType": true,
     "antiLink": true
+  },
+  {
+    "number": "94771797876",
+    "autoBlock": false,
+    "readCmd": true,
+    "session": "94771797876",
+    "owner": "Kaveesha",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": false,
+    "autoType": false,
+    "antiLink": true
   }
 ]
