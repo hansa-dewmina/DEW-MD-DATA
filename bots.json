@@ -13,6 +13,10 @@
     "statusReact": true,
     "statusReply": false,
     "autoType": true,
-    "antiLink": true
+    "antiLink": true,
+    "sendWelcome": false,
+    "antiBad": false,
+    "autoRec": false,
+    "autoBio": false
   }
 ]
