@@ -8,10 +8,10 @@
     "prefix": ".",
     "autoReply": true,
     "autoVoice": true,
-    "autoReact": true,
+    "autoReact": false,
     "statusView": true,
     "statusReact": true,
-    "statusReply": true,
+    "statusReply": false,
     "autoType": true,
     "antiLink": true
   }
