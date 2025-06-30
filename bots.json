@@ -114,7 +114,7 @@
   {
     "number": "94771797876",
     "autoBlock": false,
-    "readCmd": true,
+    "readCmd": false,
     "session": "mQhkTS7A#6kCKLRQYVlLWTCYbzPETdIHoI7jcU5LOKkfU1xO2Rw4",
     "owner": "Deneth",
     "prefix": ".",
