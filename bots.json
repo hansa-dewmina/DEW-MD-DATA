@@ -49,7 +49,7 @@
     "autoReply": true,
     "autoVoice": true,
     "autoReact": true,
-    "statusView": true,
+    "statusView": false,
     "statusReact": true,
     "statusReply": true,
     "autoType": true,
