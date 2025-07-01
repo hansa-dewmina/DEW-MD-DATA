@@ -18,5 +18,25 @@
     "antiBad": true,
     "autoRec": true,
     "autoBio": true
+  },
+  {
+    "number": "447422403940",
+    "autoBlock": false,
+    "readCmd": false,
+    "session": "ac5jEL4R#uEFYEygUYCYPpnLDum4_JdN28-G1YGBKxzarLiO1ulk",
+    "owner": "Aaqib Hussain",
+    "prefix": "$",
+    "autoReply": false,
+    "autoVoice": false,
+    "autoReact": false,
+    "statusView": false,
+    "statusReact": false,
+    "statusReply": false,
+    "autoType": false,
+    "antiLink": false,
+    "sendWelcome": false,
+    "antiBad": false,
+    "autoRec": false,
+    "autoBio": false
   }
 ]
