@@ -89,7 +89,7 @@
     "autoReply": false,
     "autoVoice": true,
     "autoReact": true,
-    "statusView": true,
+    "statusView": false,
     "statusReact": true,
     "statusReply": true,
     "autoType": false,
