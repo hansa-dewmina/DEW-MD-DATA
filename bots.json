@@ -77,7 +77,7 @@
     "sendWelcome": true,
     "antiBad": true,
     "autoRec": true,
-    "autoBio": true
+    "autoBio": false
   },
   {
     "number": "94771797876",
