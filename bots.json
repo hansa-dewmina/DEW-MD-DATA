@@ -61,10 +61,10 @@
   },
   {
     "number": "94707057488",
-    "autoBlock": false,
+    "autoBlock": true,
     "readCmd": true,
-    "session": "uEJEybCL#YZ2PJlpZip6UF8KLs0Bu1aiNUzXXf8Gf46pCk_EVZJ4",
-    "owner": "Podiya",
+    "session": "uNZlgL6A#h8BUgfums2CaKhxI39GvHZSnB45M8V5A6Z_gQ4QSFO8",
+    "owner": "N",
     "prefix": ".",
     "autoReply": true,
     "autoVoice": true,
