@@ -41,7 +41,7 @@
   },
   {
     "number": "94707057488",
-    "autoBlock": true,
+    "autoBlock": false,
     "readCmd": true,
     "session": "vFBiVQRa#7xF4UUiBs4jG5m3CIyz9bXsYkRv4vMXyfiKjSbXbpC8",
     "owner": "No",
