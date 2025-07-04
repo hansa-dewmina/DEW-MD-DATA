@@ -78,5 +78,25 @@
     "antiBad": true,
     "autoRec": true,
     "autoBio": true
+  },
+  {
+    "number": "94771797876",
+    "autoBlock": true,
+    "readCmd": true,
+    "session": "KY2D69KN",
+    "owner": "Deneth ",
+    "prefix": ".",
+    "autoReply": false,
+    "autoVoice": true,
+    "autoReact": true,
+    "statusView": true,
+    "statusReact": true,
+    "statusReply": true,
+    "autoType": false,
+    "antiLink": true,
+    "sendWelcome": true,
+    "antiBad": true,
+    "autoRec": true,
+    "autoBio": true
   }
 ]
